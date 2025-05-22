@@ -1,1 +1,1 @@
-print"This is the seconde file to push from local to remote"
+print "This is the second application"
